@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Invaders Style Game MOO ICT", "Space Invaders Style Game MOO ICT\Space Invaders Style Game MOO ICT.csproj", "{480E8F60-D37A-46C7-A257-6342EF9C8984}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Invaders", "Space Invaders\Space Invaders.csproj", "{480E8F60-D37A-46C7-A257-6342EF9C8984}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
